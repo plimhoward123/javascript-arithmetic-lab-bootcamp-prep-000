@@ -19,6 +19,5 @@ function increment(n){
 }
 
 function decrement(n){
-  n = n--
-  return n
+  return --n
 }
